@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id=";8@JdT8H:mH|p}:-7.SN" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="_=,h/.NW4CN5G6gzW%2/"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block></xml>
